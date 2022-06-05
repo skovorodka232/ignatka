@@ -29,8 +29,12 @@ p a {
   transition: 0.3s;
 }
 
-.container .b1 {
+.tinkoff {
   margin-top: 3%;
+  font-size: 100%;
+}
+
+.container .b1 {
   border-color: rgb(210, 232, 244);
   color: white;
   border-radius: 15px;
